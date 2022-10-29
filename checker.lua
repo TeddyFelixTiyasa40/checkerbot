@@ -7,16 +7,16 @@ checkerDelay = 1000 -- Delay between each check
 webhookDelay = 300000 -- Delay between each webhook
 
 -- if not showIp 
-ip[1] = {"Varnishing","Backhander"}
-ip[2] = {"Insolating","Pantascope"}
-ip[3] = {"Raghuvansa","Disencrese"}
-ip[4] = {"Cognominal","Gnaphalium"}
-ip[5] = {"Climatized","Fluidizing"}
-ip[6] = {"Decangular","Desponsate"}
-ip[7] = {"Platometer","Dorsimeson"}
-ip[8] = {"Recolonize","Refracting"}
-ip[9] = {"Partheniad","Uncurbable"}
-ip[10] = {"Centistere","Dogmatical"}
+ip[1] = {{"Varnishing","Backhander"}}
+ip[2] = {{"Insolating","Pantascope"}}
+ip[3] = {{"Raghuvansa","Disencrese"}}
+ip[4] = {{"Cognominal","Gnaphalium"}}
+ip[5] = {{"Climatized","Fluidizing"}}
+ip[6] = {{"Decangular","Desponsate"}}
+ip[7] = {{"Platometer","Dorsimeson"}}
+ip[8] = {{"Recolonize","Refracting"}}
+ip[9] = {{"Partheniad","Uncurbable"}}
+ip[10] = {{"Centistere","Dogmatical"}}
 
 -- if showIp 
 ip[1] = {{"botname","botname","botname"},"your ip address"}
